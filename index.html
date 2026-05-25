@@ -64,6 +64,12 @@
           json: "new_C3.json",
           atlas: "new_C3.atlas",
         },
+        C5: {
+          label: "C5",
+          folder: "C5",
+          json: "C5.json",
+          atlas: "C5.atlas",
+        },
 
         C1_SD: {
           label: "C1_SD",
@@ -95,10 +101,16 @@
 
         const selector = document.getElementById("skin-selector");
 
-        // default 스킨은 메뉴에서 제외
-        const skins = player.skeleton.data.skins
-          .map((s) => s.name)
-          .filter((skinName) => skinName.toLowerCase() !== "default");
+        const allSkins = player.skeleton.data.skins.map((s) => s.name);
+
+        // default를 제외한 실제 스킨 목록
+        const nonDefaultSkins = allSkins.filter((skinName) => {
+          return skinName.toLowerCase() !== "default";
+        });
+
+        // 실제 스킨이 있으면 default 제외
+        // 실제 스킨이 없으면 default 사용
+        const skins = nonDefaultSkins.length > 0 ? nonDefaultSkins : allSkins;
 
         selector.innerHTML = skins
           .map((skinName) => {
