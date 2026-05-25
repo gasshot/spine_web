@@ -1,0 +1,264 @@
+new_C3.png
+size:4063,4033
+filter:Linear,Linear
+pma:true
+BACK_HAIR
+bounds:3449,798,610,692
+offsets:257,177,1375,932
+Base-hair
+bounds:2444,23,605,444
+Body
+bounds:265,2737,812,1294
+offsets:0,28,812,1346
+Body_SHIDOW
+bounds:1279,2194,543,217
+offsets:138,391,812,1346
+rotate:90
+COS-ACC1
+bounds:2851,1778,116,92
+offsets:1,0,117,92
+rotate:90
+COS-ACC2
+bounds:1011,366,163,810
+COS-ACC4
+bounds:1500,2214,386,523
+offsets:1,0,387,523
+COS-ACC5 2_2
+bounds:768,2179,507,554
+offsets:0,2,507,557
+COS-ARM-R
+bounds:1011,1180,548,995
+offsets:0,11,548,1006
+COS-BACK-LARM
+bounds:3327,1603,226,86
+rotate:90
+COS-BACK-RARM
+bounds:3739,182,194,115
+COS-BELT
+bounds:1081,3005,1026,297
+rotate:90
+COS-FOUCHI 2
+bounds:3625,301,314,168
+offsets:0,1,314,169
+COS-FOUCHI 3
+bounds:1890,2231,506,333
+offsets:0,0,618,333
+rotate:90
+COS-HALMET
+bounds:2311,471,739,455
+offsets:1,0,740,455
+rotate:90
+COS-HALMET2 3
+bounds:3418,1494,617,391
+offsets:0,0,617,393
+COS-HAT
+bounds:1178,411,765,419
+offsets:77,145,950,645
+rotate:90
+COS-L-leg 1
+bounds:1762,3060,457,971
+offsets:2,0,459,972
+COS-L-leg 2
+bounds:1382,3035,376,996
+COS-LEG
+bounds:2227,2263,475,393
+rotate:90
+COS-NECK
+bounds:2001,1208,212,67
+offsets:0,1,212,69
+COS-NVG
+bounds:2001,1279,948,846
+rotate:90
+COS-R-leg 1
+bounds:1563,1208,434,969
+offsets:21,0,455,969
+COS-R-leg 2
+bounds:3129,2726,379,917
+offsets:1,0,380,917
+rotate:90
+COS-SHIDOW-L
+bounds:2851,1565,209,91
+rotate:90
+COS-SHIDOW-R
+bounds:3625,69,204,110
+rotate:90
+COS-SHOLDER-L
+bounds:3580,473,321,429
+rotate:90
+COS-SHOLDER-R
+bounds:2681,2748,357,444
+rotate:90
+COS-SKART
+bounds:3276,3156,875,370
+rotate:90
+COS-VEST
+bounds:1601,457,706,747
+FX1
+bounds:2624,2275,469,330
+offsets:41,11,555,373
+rotate:90
+GUN 1
+bounds:2456,2748,221,314
+offsets:0,1,222,315
+GUN 2
+bounds:3650,3340,381,309
+GUN BIN
+bounds:3937,2,190,118
+rotate:90
+GUN FULL
+bounds:3943,277,192,118
+rotate:90
+GUN-AK
+bounds:2,361,1005,1804
+GUN-BACK
+bounds:2958,2102,159,215
+GUN-GAS
+bounds:1081,2741,260,487
+rotate:90
+GUN-MAC
+bounds:3650,3653,378,406
+offsets:0,1,378,407
+rotate:90
+GUN-SEL
+bounds:3650,3114,172,222
+offsets:0,0,172,223
+HEAD-SHIDO
+bounds:1869,3,571,450
+offsets:31,28,603,587
+Head 1
+bounds:2770,516,605,708
+offsets:0,2,605,710
+Head 2
+bounds:2851,1898,98,151
+offsets:0,1,98,152
+L-COS-PUT
+bounds:3418,1889,288,628
+offsets:0,0,289,628
+rotate:90
+L-HAND 1
+bounds:3127,2338,197,242
+offsets:1,0,200,248
+rotate:90
+L-HAND 2
+bounds:1572,2742,191,271
+offsets:17,9,223,282
+L-HAND 3
+bounds:3262,1236,183,254
+L-HAND 3.1
+bounds:2464,1220,55,165
+rotate:90
+L-HAND 4
+bounds:3379,562,197,232
+offsets:18,23,233,255
+L-HAND BASE
+bounds:3127,2539,183,245
+rotate:90
+L-HAND UB
+bounds:3068,1233,190,257
+offsets:0,1,190,258
+L-HAND_UB
+bounds:3418,402,77,136
+rotate:90
+L-arm 1
+bounds:3379,2472,250,642
+rotate:90
+L-arm 1 2
+bounds:2223,3066,442,965
+offsets:0,1,442,967
+L-arm 2
+bounds:2953,1833,265,441
+rotate:90
+L-eye DN
+bounds:2633,1228,165,47
+offsets:10,9,175,58
+L-eye MID 2
+bounds:2851,2053,218,98
+offsets:9,13,233,119
+rotate:90
+L-eye TOP
+bounds:1500,2181,203,29
+offsets:0,1,203,30
+L-eye base
+bounds:3937,196,121,77
+L-leg 3
+bounds:1767,2741,269,315
+offsets:12,11,288,326
+L-lens 1
+bounds:2392,1215,60,68
+rotate:90
+NOWS
+bounds:1601,413,40,58
+offsets:4,3,48,64
+rotate:90
+R-COS-PUT
+bounds:265,2175,499,558
+R-HAND 1
+bounds:3826,3136,200,230
+rotate:90
+R-HAND 2
+bounds:3127,2142,192,283
+offsets:16,8,223,293
+rotate:90
+R-HAND 3
+bounds:2851,1230,213,260
+R-HAND 3..1
+bounds:3418,483,75,157
+rotate:90
+R-arm 1
+bounds:3418,2181,287,631
+rotate:90
+R-arm 2
+bounds:3053,46,361,466
+R-eye DN
+bounds:2273,1214,115,61
+offsets:215,0,331,158
+R-eye MID 2
+bounds:3739,45,133,78
+offsets:27,2,164,85
+rotate:90
+R-eye TOP
+bounds:1382,3005,123,26
+offsets:0,0,123,27
+R-eye base
+bounds:3327,1511,88,75
+rotate:90
+R-leg 3
+bounds:2040,2742,412,314
+offsets:5,9,427,323
+R-lens 1
+bounds:2217,1212,52,63
+SHELD
+bounds:2669,3109,603,922
+offsets:209,21,1024,1024
+Shodow big
+bounds:2,2169,1862,259
+rotate:90
+face shido
+bounds:3418,24,374,203
+offsets:41,32,431,267
+rotate:90
+hair-back
+bounds:933,9,255,348
+offsets:19,25,274,373
+hair-back 2
+bounds:2,2,258,355
+offsets:0,18,274,373
+hair-side
+bounds:1192,3,404,673
+offsets:0,27,404,700
+rotate:90
+hair-side2
+bounds:2947,1494,335,376
+rotate:90
+hair-side3
+bounds:2958,2321,165,423
+offsets:0,7,165,430
+hair-side4
+bounds:264,5,352,665
+offsets:20,62,374,727
+rotate:90
+mouse 2
+bounds:1509,3010,51,21
+mouse3
+bounds:1564,3017,67,14
+offsets:1,1,68,15
